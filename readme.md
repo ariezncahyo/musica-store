@@ -1,10 +1,6 @@
 ##Musica Store
 
-Ini merupakan aplikasi yang ane buat untuk memenuhi tugas mata kuliah Rekayasa Web kemaren, biasanya sih langsung ane hapus begitu sudah penilaian, tapi entah kenapa 
-
-kebetulan pas ane lagi asik-asiknya atur data  ternyata source codenya masih ada dalam laptop ane, jadi ya ada baiknya sebelum dihapus ane stor dulu disini. Mungkin 
-
-aja source code ini bisa digunakan untuk keperluan belajar. Semoga bermanfaat. Regard [novay](http://novay.web.id).
+Ini merupakan aplikasi yang ane buat untuk memenuhi tugas mata kuliah Rekayasa Web kemaren, biasanya sih langsung ane hapus begitu sudah penilaian, tapi entah kenapa kebetulan pas ane lagi asik-asiknya atur data  ternyata source codenya masih ada dalam laptop ane, jadi ya ada baiknya sebelum dihapus ane stor dulu disini. Mungkin aja source code ini bisa digunakan untuk keperluan belajar. Semoga bermanfaat. Regard [novay](http://novay.web.id).
 
 ###Fitur
  - Simple Layout with pure Twitter Bootstrap
@@ -28,8 +24,8 @@ aja source code ini bisa digunakan untuk keperluan belajar. Semoga bermanfaat. R
  - Open up your favorite browser and visit `localhost:8000`
 
 ###Akun Backend
- - username : novay
- - password : suatangbaru123
+ - username : `admin`
+ - password : `admin`
 
 ###Credit
  - Laravel
